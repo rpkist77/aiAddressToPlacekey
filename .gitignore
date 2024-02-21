@@ -4,3 +4,5 @@ node_modules
 excel-in/*
 excel-out/*
 built/*
+!excel-in/.gitkeep
+!excel-out/.gitkeep
