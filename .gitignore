@@ -1,0 +1,6 @@
+.env
+
+node_modules
+excel-in/*
+excel-out/*
+built/*
